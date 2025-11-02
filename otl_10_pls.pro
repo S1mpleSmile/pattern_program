@@ -28,7 +28,6 @@ HEADERS += \
     move_item.h \
     MyPlot.h \
     qcustomplot.h
-
 FORMS += \
     mainwindow.ui
 
