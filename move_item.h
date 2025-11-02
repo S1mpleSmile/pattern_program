@@ -15,7 +15,6 @@
 #include <QLabel>
 #include <QLineEdit>
 
-
 class MoveItem : public QObject, public QGraphicsItem
 {
 
