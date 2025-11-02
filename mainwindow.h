@@ -102,7 +102,6 @@ private:
 
     QString pattern_path;
 
-
 //
 };
 
